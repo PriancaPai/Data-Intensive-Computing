@@ -1,0 +1,1061 @@
+"#AI	{#MachineLearning" = 1    #bigdata = 34    fuel<U+2026> = 56    }
+"#AIOps	{#selfdrivingdatacenter = 265    }
+"#AVdatafest	{#MachineLearning = 292    }
+"#Artificial<U+00A1>ntelligence	{game-changers = 1    }
+"#Azure	{#IoT<U+2026> = 265    }
+"#China's	{#DigitalTransformation = 391    }
+"#DataScience:	{#machinelearning = 2    }
+"#DeepLearning:	{#MachineLearning = 134    }
+"#FinTechs	{#coinnovate = 161    }
+"#GlobalAzure	{#LogicApps = 161    }
+"#Jupyter	{#TensorFlow<U+2026> = 1    }
+"#MachineLearning	{[Blog] = 1    #AI = 265    #SmarterHR = 68    }
+"#MachineLearning:	{#Artificial = 292    }
+"#PeterLee	{...<U+201D> = 231    }
+"#VoiceOfWipro	{#MachineLearning = 718    #WI = 359    #Designer = 359    }
+"#chatbots	{@TheNextWeb = 134    }
+"#fintech	{#tech<U+2026> = 1    #tech = 52    }
+"#machinelearning	{Data = 265    }
+"#sitist	{learning = 292    }
+".@rinaahm	{#machinelearning = 134    }
+".@ucdavis	{#MachineLearning:<U+2026> = 52    }
+"<U+201C>Africa:	{Opportunities<U+201D> = 34    }
+"<U+201C>How	{#machinelearning" = 52    }
+"@ALSWharton	{<ed><U+00A0><U+00BD><ed><U+00B8><U+0081><ed><U+00A0><U+00BD><ed><U+00BA><U+00A9> = 277    }
+"@DevOpsSummit	{at = 292    }
+"@SAPMentors	{#sitist = 265    }
+"@hubroma	{#digitalstrategy<U+2026> = 1    }
+"@marktraphagen	{#seo" = 162    }
+"@technology	{sens = 181    }
+"A	{#RT = 34    }
+"A.I:	{#DataScience<U+2026> = 1    }
+"AI	{#deeple<U+2026>" = 52    }
+"Accenture	{here: = 292    }
+"Advance	{#FPGAs<U+2026> = 292    }
+"Amazon	{#AWS<U+2026> = 231    }
+"Anything	{5x'<U+2026> = 1    }
+"Artificial	{#AI" = 688    }
+"As	{#AI<U+2026> = 135    }
+"AutoDraw	{#machinelearning = 265    }
+"Benchmarking	{@jamesebowman = 134    }
+"Can	{#MLPrague<U+2026> = 183    }
+"Check	{@coursera" = 1    }
+"Come	{#DCTech" = 233    }
+"Crash	{#NeuralNetworks. = 1    }
+"Creating	{#startup" = 359    }
+"Curated	{Intelligence. = 52    }
+"D<U+00E9>bat	{#BigData" = 265    }
+"Das	{#BigData" = 52    }
+"Data	{#MachineLearning" = 462    #DataScience = 1    }
+"Deep	{#AI<U+2026> = 231    }
+"Disruption	{#deeperlearning" = 391    }
+"Drug-funded	{#BigData" = 1    }
+"Earth	{#MachineLearning" = 359    }
+"Edit	{#chrometips = 52    }
+"Evan	{<U+2026> = 344    }
+"Facebook	{using<U+2026> = 215    }
+"Farming	{#MachineLearning" = 2    }
+"Fintech	{#tech = 52    }
+"Getto	{#ml" = 391    }
+"Global	{champion = 68    }
+"Google	{#machinelearning" = 231    #MachineLearning = 34    }
+"Great	{#futureofag = 1    }
+"Harvard	{#deepl<U+2026>" = 23    }
+"Here<U+2019>s	{#machinelearning" = 1    }
+"How	{@DigiCatapult" = 345    @B_resnick = 161    #IBMML = 159    #MachineLearning = 195    #fraud" = 265    }
+"IT	{blog = 292    }
+"In	{#ai = 266    }
+"Influencers	{@kirkdborne<U+2026> = 214    }
+"Infographic:	{#machinelearning" = 1    }
+"Intel	{GALILEO2.P = 34    }
+"Interesting	{hunger? = 134    }
+"Is	{#machinelearning" = 344    It? = 104    }
+"John	{#deepl<U+2026>" = 381    }
+"Keep	{#DataScience" = 52    }
+"Lars	{at<U+2026> = 292    }
+"Learning	{R = 359    }
+"Looking	{#DigitalMarketing" = 151    }
+"Machine	{#FinancialTimes" = 703    @techcrunch<U+2026> = 23    #ai" = 181    }
+"Making	{Data = 609    }
+"Movidius:	{#AI<U+2026> = 1    }
+"New	{Analytics: = 161    }
+"Nice	{#PrecisionMedicine = 23    }
+"One	{#DeepLearning" = 382    }
+"PDF:	{24.JUL.2016 = 214    }
+"Pianificazione	{#toolsgroup<U+2026> = 52    }
+"Product	{#machinelearning" = 1    }
+"Quant	{#machinelearning" = 23    }
+"Ravens	{#NFL" = 161    }
+"Recent	{#ecommerce. = 391    }
+"Reinforcement	{@techreview = 52    }
+"Revolutionizing	{#MachineLearning = 2    }
+"SNAP	{#bigdata<U+2026> = 34    }
+"Schedule	{#BigData = 34    }
+"Self-Driving	{#AI = 231    }
+"Several	{@kleinsound" = 292    }
+"Sigfox	{#IoT<U+2026> = 34    }
+"Sobre	{Pa<U+00ED>s = 34    }
+"Software	{#Javascript = 24    }
+"State-of-the-art	{services. = 370    }
+"Statistical	{@machinelearnbot" = 381    }
+"Supercharge	{#DeepLearning<U+2026> = 265    }
+"Talking	{#SpotifyPlatform" = 134    #AnvilHack = 292    }
+"The	{#RT = 462    #ai = 1    #machinelearning" = 522    #fedcup" = 292    #earthday" = 122    #ai" = 759    Coming! = 124    }
+"This	{India:<U+2026> = 134    #climatechange! = 134    }
+"Those	{#machinelearning = 731    }
+"Trucking	{<U+2026>" = 52    }
+"Understanding	{#AI = 359    }
+"Using	{#machinelearning" = 456    }
+"What	{intelligent<U+2026> = 35    #DL" = 161    #AI<U+2026> = 231    }
+"Which	{Use? = 122    }
+"Why	{#ai = 34    #analytics" = 34    #machinelearning = 231    }
+"Willi	{#MLPrague<U+2026> = 344    }
+"[Infographic]	{@T<U+2026>" = 10    }
+"\"Global	{champion = 34    }
+"\"RT	{DeepLearn007 = 322    }
+"digr_io	{Use? = 52    #alevergara78 = 292    }
+"il	{#BigData" = 1    }
+"ipfconline1:	{#unicorns = 161    }
+"text"	{}
+##MachineLearning:	{game-changers = 1    }
+#4org	{#ml<U+2026> = 134    }
+#AG	{#futureofag = 1    }
+#AI	{#paym<U+2026> = 161    champion = 102    #TensorFlow<U+2026> = 1    by<U+2026> = 944    #BigData = 34    #deeperlearning" = 391    #ecommerce. = 391    #AnvilHack = 292    #DataScience = 231    #martech...<U+2026> = 34    #tech<U+2026> = 1    #machinelearning" = 326    #IoT<U+2026> = 299    #Analytics<U+2026> = 1    #ArtificialIntelligence = 265    @pymnts<U+2026> = 134    @T<U+2026>" = 16    hunger? = 134    #bigdata<U+2026> = 34    #DL" = 161    #SpotifyPlatform" = 134    #analytics" = 34    Of = 359    #MachineLearning = 393    #BigData" = 318    <U+2026> = 344    @TheNextWeb = 134    #machinelearning<U+2026> = 963    #tech = 104    #FPGAs<U+2026> = 292    }
+#AI"	{#machinelearning = 688    }
+#AI,	{#DeepLearning<U+2026> = 265    }
+#AI.	{#DeepLearning" = 389    }
+#AI...	{by<U+2026> = 1    by... = 1    }
+#AI:	{#AWS<U+2026> = 231    }
+#AI<U+2026>	{game) = 150    #DataScience = 463    #blockchain = 34    }
+#AI?	{intelligent<U+2026> = 40    }
+#AWS<U+2026>	{#DataScience = 231    }
+#Analytics	{#IoT<U+2026> = 299    }
+#Analytics<U+2026>	{#AI = 1    }
+#AnvilHack	{at = 292    #SpotifyPlatform" = 134    }
+#Artificial	{ultima... = 292    }
+#ArtificialIntelligence	{#machinelearning" = 344    #AI = 265    DeepLearn007 = 161    #selfdrivingdatacenter = 265    #DeepLearning<U+2026> = 265    }
+#AutoInsurance	{#Designer = 359    }
+#Automation	{#MachineLearning = 359    }
+#Azure	{#LogicApps = 161    }
+#BI	{#machinelearning" = 161    }
+#Banking	{#MachineLearning = 359    }
+#Banks	{#fraud" = 265    }
+#BigData	{#AWS<U+2026> = 231    #TensorFlow<U+2026> = 1    @coursera" = 1    fuel<U+2026> = 112    #AI = 265    #IoT<U+2026> = 299    #Analytics<U+2026> = 1    #AI<U+2026> = 463    @T<U+2026>" = 19    #DataScience<U+2026> = 1    #ai" = 150    #MachineLearning = 161    #machinelearning<U+2026> = 391    #FPGAs<U+2026> = 292    }
+#BigData"	{#AI = 318    #digitalklive = 1    }
+#BigData<U+2026>	{}
+#Blockchain	{5x'<U+2026> = 1    }
+#Bots	{Coming! = 126    @T<U+2026>" = 20    }
+#Business	{#RT = 462    }
+#Casehistory	{#digitalstrategy<U+2026> = 1    }
+#Chatbots	{@pymnts<U+2026> = 134    }
+#China's	{<U+2026> = 344    }
+#Cloud	{@coursera" = 1    }
+#CreditCard	{#fraud" = 265    }
+#CyberSecurity	{#tech<U+2026> = 1    #Analytics<U+2026> = 1    }
+#DCTech"	{office = 265    }
+#DL	{#tec<U+2026> = 161    #tech<U+2026> = 102    #machinelearning<U+2026> = 391    }
+#DL"	{#ML = 161    }
+#Data-Driven	{#MachineLearning = 34    }
+#DataScience	{#MLPrague = 1    #AWS<U+2026> = 231    #TensorFlow<U+2026> = 1    #MachineLearning<U+2026> = 359    #AI = 231    #IoT<U+2026> = 299    #Analytics<U+2026> = 1    #AI<U+2026> = 463    #alevergara78 = 584    #bigdata<U+2026> = 34    #FPGAs<U+2026> = 292    }
+#DataScience"	{complexity = 52    }
+#DataScience<U+2026>	{#MachineLearning = 1    }
+#DeepLearning	{#AWS<U+2026> = 231    #TensorFlow<U+2026> = 1    #AI = 231    #IoT<U+2026> = 265    #Analytics<U+2026> = 1    #AI<U+2026> = 463    #DataScience<U+2026> = 1    @ipfconline1<U+2026> = 359    #DL" = 161    #FPGAs<U+2026> = 292    }
+#DeepLearning"	{#machinelearning = 391    }
+#DeepLearning<U+2026>	{&amp; = 265    }
+#Designer	{#MachineLearning = 359    }
+#Digital	{@T<U+2026>" = 21    }
+#DigitalMarketing"	{#ecommerce = 161    }
+#DigitalTransformation	{for = 391    }
+#DigitalTransformation#fintech	{<U+2026> = 344    }
+#Drones.	{#AI<U+2026> = 1    }
+#EarthDay,	{India:<U+2026> = 134    }
+#Excel,	{#machinelearning" = 161    }
+#FPGAs<U+2026>	{#HPC = 292    }
+#Facebook	{#FinancialTimes" = 703    }
+#FinTechs	{@TheNextWeb = 134    }
+#FinancialTimes"	{#MachineLearning = 703    }
+#Fintech	{#ma<U+2026> = 161    @pymnts<U+2026> = 134    #MachineLearning = 34    #tech = 52    }
+#FutureofHR	{#SmarterHR = 68    }
+#FutureofWork	{#SmarterHR = 68    }
+#GlobalAzure	{#DCTech" = 258    }
+#Golang	{@jamesebowman = 134    }
+#HPC	{#FPGAs<U+2026> = 292    }
+#HR	{#SmarterHR = 68    }
+#HRTech	{#SmarterHR = 34    }
+#Healthcare	{#DeepLearning<U+2026> = 265    }
+#HeresWhy	{#machinelearning = 231    }
+#IA	{#deeperlearning" = 391    #RentaBasicaUniversal" = 34    }
+#IBMML	{look: = 159    }
+#IT	{<U+2026> = 344    #machinelearning<U+2026> = 391    }
+#Insurtech	{#paym<U+2026> = 161    }
+#IoT	{#BigData = 34    #Analytics<U+2026> = 1    #RT = 34    #BigData" = 318    <U+2026> = 344    #machinelearning<U+2026> = 391    #machinelearning = 749    }
+#IoT,	{services. = 370    #AI<U+2026> = 1    }
+#IoT<U+2026>	{#Analytics = 34    #AI = 265    }
+#Iot	{#deeperlearning" = 391    }
+#Java	{#Javascript = 32    }
+#Javascript	{&amp; = 34    }
+#LogicApps	{#docker = 161    }
+#ML	{#paym<U+2026> = 161    by<U+2026> = 35    #tec<U+2026> = 161    #martech...<U+2026> = 34    #tech<U+2026> = 102    #ma<U+2026> = 161    #AI<U+2026> = 34    #DL" = 161    #machinelearning<U+2026> = 391    }
+#ML...	{by<U+2026> = 909    }
+#MLPrague	{#DataScience = 1    }
+#MLPrague<U+2026>	{easy. = 214    at = 344    }
+#MachineLearning	{#FinancialTimes" = 703    #DCTech" = 254    5x'<U+2026> = 1    @DataconomyMedia" = 344    #AWS<U+2026> = 231    #TensorFlow<U+2026> = 1    #BigData = 161    SkillPower = 292    Training = 134    @coursera" = 1    #Javascript = 26    intelligent<U+2026> = 44    #AnvilHack = 292    #fraud" = 265    fuel<U+2026> = 70    #seo" = 180    from = 34    Through = 2    #AI = 624    #IoT<U+2026> = 299    #Analytics<U+2026> = 1    University = 344    @pymnts<U+2026> = 134    Opportunities<U+201D> = 34    #DataScience" = 52    #AI<U+2026> = 463    @T<U+2026>" = 18    #RentaBasicaUniversal" = 34    Use? = 174    #PrecisionMedicine = 23    #RT = 496    #alevergara78 = 584    #DataScience<U+2026> = 1    #SpotifyPlatform" = 134    #DL" = 161    #ai" = 150    Intelligence. = 52    #WiproHOLMES = 359    #IBMML = 159    @jamesebowman = 134    #BigData" = 1    #Designer = 359    #FPGAs<U+2026> = 292    }
+#MachineLearning"	{Engineer = 462    impact = 2    Startups = 359    <U+201D> = 1    }
+#MachineLearning,	{#DeepLearning<U+2026> = 265    }
+#MachineLearning:<U+2026>	{w/ = 52    }
+#MachineLearning<U+2026>	{#R = 359    }
+#Machinelearning	{24.JUL.2016 = 214    }
+#Marketing	{It? = 104    }
+#NFL"	{#scholar = 161    }
+#NLP	{@TheNextWeb = 134    }
+#NLP/#NLProc	{#DeepLearning<U+2026> = 265    }
+#NeuralNetworks.	{Perceptron = 1    }
+#PaymentFraud	{[Blog] = 1    }
+#PrecisionMedicine	{Stroke = 23    }
+#Python	{#TensorFlow<U+2026> = 1    #MachineLearning<U+2026> = 359    }
+#R	{#MachineLearning<U+2026> = 359    }
+#RT	{#Business = 462    #IoT = 34    }
+#Reddit:	{#machinelearning" = 52    }
+#RentaBasicaUniversal"	{#Rob<U+00F3>tica = 34    }
+#Rob<U+00F3>tica	{#RentaBasicaUniversal" = 34    }
+#Robotics	{@T<U+2026>" = 14    }
+#SQL	{#MachineLearning<U+2026> = 359    }
+#SmarterHR	{#FutureofHR = 34    #HRTech = 34    }
+#SpotifyPlatform"	{#AnvilHack = 134    }
+#Tableau	{#MachineLearning<U+2026> = 359    }
+#TensorFlow<U+2026>	{#Python = 1    }
+#WI	{#machinelearning = 359    }
+#WiproHOLMES	{#MachineLearning = 359    #Designer = 359    }
+#YouTube	{#machinelearning" = 34    }
+#agb2017	{#DCTech" = 256    }
+#ai	{with = 161    @kleinsound" = 292    <U+2026>" = 52    #bigdata = 311    #ml<U+2026> = 134    #machinelearning" = 86    #ml" = 391    #deepl<U+2026>" = 404    #deeple<U+2026>" = 52    }
+#ai"	{#bigdata = 150    #machinelearning = 790    }
+#alevergara78	{by = 584    }
+#analytics	{by<U+2026> = 122    @kirkdborne<U+2026> = 214    #datami<U+2026> = 52    }
+#analytics"	{#machinelearning = 34    }
+#artificialintelligence	{@B_resnick = 161    #deeperlearning" = 391    @kleinsound" = 292    <U+2026>" = 52    #ml" = 391    #deepl<U+2026>" = 404    #deeple<U+2026>" = 52    }
+#automation	{#coinnovate = 161    @TheNextWeb = 134    }
+#azure	{#machinelearning = 134    }
+#banking	{#AI<U+2026> = 34    }
+#bigdata	{#toolsgroup<U+2026> = 52    #ai = 310    by<U+2026> = 944    #deeperlearning" = 391    #ml<U+2026> = 134    #martech...<U+2026> = 34    #tech<U+2026> = 103    of = 34    #machinelearning" = 2    #AI" = 688    #ai" = 150    <U+2026> = 344    #machinelearning<U+2026> = 391    #tech = 104    }
+#bigdata<U+2026>	{#AI = 34    }
+#blockchain	{#tech<U+2026> = 1    #AI<U+2026> = 34    #machinelearning = 747    }
+#blockchain,	{services. = 370    }
+#books	{Intelligence. = 52    }
+#chrometips	{#machinelearning = 52    }
+#climatechange!	{technological = 134    }
+#cocreate	{#coinnovate = 161    }
+#coinnovate	{#cocreate = 161    }
+#collaboration	{#coinnovate = 161    }
+#course	{@coursera" = 1    }
+#datami<U+2026>	{#analytics = 52    }
+#datamining	{by<U+2026> = 122    }
+#datascience	{by<U+2026> = 122    @kirkdborne<U+2026> = 214    #ml<U+2026> = 134    #WI = 359    #datami<U+2026> = 52    }
+#deeperlearning"	{#machinelearning = 391    }
+#deepl<U+2026>"	{#ml = 404    }
+#deeple<U+2026>"	{#ml = 52    }
+#deeplearning	{by<U+2026> = 265    #tec<U+2026> = 161    #tech<U+2026> = 102    #MLPrague<U+2026> = 344    @TheNextWeb = 134    }
+#deeplearning...	{by<U+2026> = 34    }
+#demandsensing	{#toolsgroup<U+2026> = 52    }
+#design	{#machinelearning = 265    }
+#digital	{#coinnovate = 161    #martech...<U+2026> = 34    }
+#digital...	{by<U+2026> = 35    }
+#digitalklive	{#digitalstrategy<U+2026> = 1    #BigData" = 1    }
+#digitalstrategy<U+2026>	{#machinelearning = 1    }
+#docker	{#LogicApps = 161    }
+#draw	{#machinelearning = 265    }
+#earthday"	{#machinelearning = 122    }
+#ecommerce	{#DigitalMarketing" = 160    }
+#ecommerce.	{mainstream = 391    }
+#fedcup"	{#machinelearning = 292    }
+#finance	{#machinelearning" = 161    }
+#fintech	{by<U+2026> = 610    #deeperlearning" = 391    #fraud" = 265    by... = 1    #unicorns = 161    #machinelearning<U+2026> = 391    }
+#fintech...	{by<U+2026> = 1    }
+#fintech<U+2026>	{@T<U+2026>" = 22    }
+#fraud"	{#fintech = 265    }
+#futureofag	{#AG = 1    }
+#futuro	{Pa<U+00ED>s = 34    }
+#gab2017	{#machinelearning = 134    }
+#healthcare	{#ai = 161    }
+#innovation	{#futureofag = 1    }
+#ma<U+2026>	{#ML = 161    }
+#machineintelligence	{#coinnovate = 161    }
+#machinelearning	{#paym<U+2026> = 161    #DeepLearning" = 390    services. = 370    #BigData = 34    #coinnovate = 161    India:<U+2026> = 134    #fedcup" = 292    <U+2026>" = 52    #sitist = 265    #tech<U+2026> = 103    blog = 292    #ml" = 391    #MLPrague<U+2026> = 188    #AI" = 688    #WI = 359    #selfdrivingdatacenter = 265    #digitalstrategy<U+2026> = 1    #bigdata<U+2026> = 34    #analytics" = 34    #HeresWhy = 231    <U+2026> = 344    @TheNextWeb = 134    #toolsgroup<U+2026> = 52    #ai = 309    Data = 9    at<U+2026> = 292    It? = 104    by<U+2026> = 643    #startup" = 359    @machinelearnbot" = 381    #azure = 134    #tec<U+2026> = 161    #deeperlearning" = 391    @kleinsound" = 292    #NFL" = 161    @kirkdborne<U+2026> = 214    #ml<U+2026> = 134    @Industrie_40" = 161    #DataScience = 1    #LogicApps = 161    @DigiCatapult" = 347    learning = 292    #deepl<U+2026>" = 404    #IoT = 751    #chrometips = 52    #ma<U+2026> = 161    #futureofag = 1    #DigitalMarketing" = 158    #earthday" = 122    #ai" = 790    #deeple<U+2026>" = 52    #BigData" = 318    #tech = 369    }
+#machinelearning"	{#bigdata = 2    Learning = 23    #ml = 231    #ai = 86    #finance = 161    Analytics = 161    Dataconomy = 1    #AI = 292    @WIRED = 34    #ArtificialIntelligence = 344    draw = 344    Walmart: = 1    }
+#machinelearning.	{here: = 292    }
+#machinelearning<U+2026>	{#bigdata = 391    #DL = 391    #AI = 181    }
+#manufacturing:	{24.JUL.2016 = 214    }
+#marijuana	{#machinelearning" = 52    }
+#martech...<U+2026>	{#digital = 34    }
+#ml	{<U+2026>" = 52    #machinelearning" = 231    #deepl<U+2026>" = 404    #deeple<U+2026>" = 52    }
+#ml"	{#machinelearning = 391    }
+#ml<U+2026>	{#ai = 134    }
+#nets	{...<U+201D> = 231    }
+#neural	{...<U+201D> = 231    }
+#neuralnetworks<U+2026>	{}
+#nlp	{#machinelearning" = 52    }
+#paym<U+2026>	{#ML = 161    }
+#pedestrian	{#AI<U+2026> = 137    }
+#problemsolving	{}
+#pySpark	{#MachineLearning = 161    }
+#racist	{@B_resnick = 161    }
+#robotics	{#tec<U+2026> = 161    }
+#sapclea	{#sitist = 265    }
+#scholar	{#NFL" = 161    }
+#selfdrivingdatacenter	{to = 265    }
+#seo"	{#MachineLearning = 181    }
+#sitist	{at = 265    }
+#sneakers	{#digitalstrategy<U+2026> = 1    }
+#startup"	{#machinelearning = 359    }
+#startups	{#tech<U+2026> = 102    #machinelearning<U+2026> = 391    }
+#starups	{#ml<U+2026> = 134    }
+#supplychain?	{#toolsgroup<U+2026> = 52    }
+#tec<U+2026>	{#robotics = 161    }
+#tech	{#bigdata = 104    #machinelearning" = 1    #futureofag = 1    #machinelearning = 265    }
+#tech<U+2026>	{#startups = 102    #CyberSecurity = 1    }
+#technology	{#machinelearning" = 1    }
+#toolsgroup<U+2026>	{#bigdata = 52    }
+#trabajo,	{Pa<U+00ED>s = 34    }
+#unicorns	{#fintech = 161    }
+&amp;	{#machinelearning" = 161    @T<U+2026>" = 15    #DeepLearning<U+2026> = 265    #Javascript = 33    fuel<U+2026> = 108    @DigiCatapult" = 698    Intelligence. = 52    #machinelearning<U+2026> = 391    }
+'s	{#machinelearning" = 319    }
+(and	{#MachineLearning" = 1    }
+(having	{#AI<U+2026> = 145    }
+--&gt;	{hunger? = 134    }
+...<U+201D>	{#nets = 231    }
+13th	{#DigitalTransformation = 391    <U+2026> = 344    }
+1st	{India:<U+2026> = 134    }
+24.JUL.2016	{applications, = 214    }
+2P	{GALILEO2.P = 34    }
+5x'<U+2026>	{up, = 1    }
+<U+2014>	{#deepl<U+2026>" = 23    }
+<U+2018>big<U+2019>	{Data = 265    }
+<U+201C>Our	{...<U+201D> = 231    }
+<U+201D>	{#MachineLearning" = 1    }
+<U+2026>	{#machinelearning = 344    }
+<U+2026>"	{#ml = 52    }
+<U+261E>	{}
+<ed><U+00A0><U+00BD><ed><U+00B2><U+0098>	{#DataScience = 1    }
+<ed><U+00A0><U+00BD><ed><U+00B8><U+0081><ed><U+00A0><U+00BD><ed><U+00BA><U+00A9>	{see = 292    }
+<ed><U+00A0><U+00BD><ed><U+00B8><U+008A>	{#seo" = 179    }
+@ApacheSpark	{#MachineLearning = 161    }
+@B_resnick	{@aylin_cim = 161    }
+@BakseDoesBI	{#machinelearning" = 161    }
+@BradfordBrown	{hunger? = 134    }
+@DataconomyMedia"	{via = 344    }
+@DeepLearn007	{#tech<U+2026> = 1    }
+@DigiCatapult"	{via = 359    }
+@EnigmaInv	{#machinelearning" = 34    }
+@FT	{#machinelearning" = 293    }
+@Facebook	{at<U+2026> = 292    }
+@Google	{@coursera" = 1    #machinelearning" = 316    }
+@HireMobiDev	{#ai" = 150    }
+@IBMcloud	{at = 292    }
+@Industrie_40"	{for = 161    }
+@JimMarous	{@T<U+2026>" = 17    }
+@KlasraRauf	{#fedcup" = 292    }
+@LoveLetchworth	{#machinelearning" = 34    }
+@MatteoPogliani	{#digitalstrategy<U+2026> = 1    }
+@MercerRowe	{at = 292    }
+@Microsoft	{#MLPrague<U+2026> = 344    }
+@Microsoft:	{...<U+201D> = 231    }
+@NERSC	{#MachineLearning:<U+2026> = 52    }
+@NL_UX_NL	{#ai" = 150    }
+@PuneetChhahira	{@TheNextWeb = 134    }
+@QuantaverseLLC	{#ai" = 150    }
+@RBS_6_Nations	{here: = 292    }
+@RaejeanneS	{at = 292    }
+@Rajkalsri	{@TheNextWeb = 134    }
+@SRobTweets	{#machinelearning" = 52    }
+@StackOverflow	{#MachineLearning = 161    }
+@T<U+2026>"	{via = 23    }
+@TheNextWeb	{#FinTechs = 134    }
+@ToolsGroup	{#toolsgroup<U+2026> = 52    }
+@VMSolutionsLtd	{#earthday" = 122    }
+@WIRED	{#machinelearning" = 34    }
+@YChahed	{#ai" = 181    }
+@abdulbasitg	{#sitist = 265    learning = 292    }
+@aylin_cim	{@B_resnick = 161    }
+@bon__fifi	{#machinelearning" = 1    }
+@climatecorp	{#futureofag = 1    }
+@coursera"	{via = 1    }
+@derpapst	{#MLPrague<U+2026> = 344    }
+@digitalklive	{#digitalstrategy<U+2026> = 1    }
+@emirjesusrs	{#ai" = 344    }
+@facebook,it's	{#MLPrague<U+2026> = 208    }
+@gerster	{#DataScience = 1    }
+@gizmodo	{#fraud" = 265    }
+@gp_pulipaka	{}
+@intel	{at = 292    }
+@ipfconline1<U+2026>	{#DeepLearning = 359    }
+@jamesebowman	{by = 134    }
+@kirkdborne<U+2026>	{@ronald_vanLoon = 214    }
+@kleinsound"	{via = 292    }
+@machinelearnbot"	{#machinelearning = 381    }
+@nabojtweet	{#ai" = 181    }
+@nerderymisfit	{#earthday" = 122    }
+@pseudonyme_ovb	{#ai" = 344    }
+@pymnts<U+2026>	{via = 134    }
+@rahulmeetu	{#ai" = 181    }
+@ronald_vanLoon	{@kirkdborne<U+2026> = 214    }
+@s_unter	{#ai" = 344    }
+@sagittar_scopes	{#fedcup" = 292    }
+@sharjeelinam	{#fedcup" = 292    }
+@techcrunch<U+2026>	{for<U+00A0>Facebook = 23    }
+@techreview	{by = 52    }
+@tonyramos	{#machinelearning" = 161    }
+A	{#machinelearning" = 1    }
+AI	{#RT = 34    @DigiCatapult" = 346    #machinelearning = 741    #FPGAs<U+2026> = 292    }
+AI?	{#DL" = 161    }
+ATX	{#MachineLearning" = 359    }
+About	{#tech = 104    }
+Access	{#machinelearning = 6    }
+AdExchanger	{#machinelearning" = 231    }
+Ads	{#machinelearning" = 265    }
+After	{sens = 181    }
+Age	{DeepLearn007 = 161    }
+Algorithm	{Use? = 174    }
+Algorithms	{@DataconomyMedia" = 344    #machinelearning" = 1    }
+Analysis	{R = 359    }
+Analytics	{#machinelearning" = 161    }
+Analytics:	{Provenance = 161    }
+And	{#machinelearning" = 231    #MachineLearning" = 359    #RT = 34    @machinelearnbot" = 381    }
+Andrew	{#MachineLearning = 344    }
+Animals	{#AI = 359    }
+Application	{Opportunities<U+201D> = 34    }
+Apr	{#BigData = 34    }
+April	{#TensorFlow<U+2026> = 1    }
+Arduino	{GALILEO2.P = 34    }
+Are	{Coming! = 260    #ai = 34    }
+Around	{#MachineLearning" = 359    }
+Artificial	{#Artificial = 292    #machinelearning" = 344    #deepl<U+2026>" = 381    Intelligence. = 52    }
+As	{It? = 104    }
+Atomic	{#chrometips = 52    }
+Austin	{#MachineLearning" = 359    }
+AutoDraw	{#machinelearning" = 325    }
+Automated	{#DataScience<U+2026> = 1    }
+BMBF	{Analytics: = 161    }
+Backstrom	{at<U+2026> = 292    }
+Banking	{#machinelearning = 743    }
+Banque,	{sens = 181    }
+Be	{#ai = 271    }
+Beginner<U+2019>s	{#machinelearning" = 1    }
+Benefit	{#MachineLearning = 34    }
+Better	{@machinelearnbot" = 381    }
+Between	{#DL" = 161    }
+Big	{#machinelearning" = 161    #DataScience<U+2026> = 1    #ai = 34    Data = 874    }
+Board	{GALILEO2.P = 34    }
+Books	{#alevergara78 = 584    }
+Bootcamp	{#LogicApps = 161    }
+Bots	{Coming! = 132    }
+Breaking	{#earthday" = 122    }
+Breakthrough	{#DataScience<U+2026> = 1    @techreview = 52    }
+Bubble?	{#machinelearning" = 344    }
+Can	{Opportunities<U+201D> = 34    hunger? = 134    #MachineLearning = 34    #AI = 359    }
+Car	{#AI = 231    }
+Catalyse	{Opportunities<U+201D> = 34    }
+Certified	{GALILEO2.P = 34    }
+Chatbots	{#ai = 34    }
+Chile!	{#LogicApps = 161    }
+Chrome	{#chrometips = 52    }
+Classifiers	{#PrecisionMedicine = 23    }
+Clean	{#machinelearning" = 34    }
+Cognitive	{#MLPrague<U+2026> = 344    }
+Colombia.	{#IoT<U+2026> = 34    }
+Coming!	{Are = 134    Coming! = 128    }
+Competing	{DeepLearn007 = 161    }
+Computable	{#machinelearning = 5    }
+Cool	{#NFL" = 161    }
+Could	{#ai = 270    }
+Course	{#NeuralNetworks. = 1    }
+Crook's	{#fraud" = 265    }
+Curated	{#machinelearning = 8    }
+DK	{India:<U+2026> = 134    }
+Daily!	{#fedcup" = 292    #machinelearning" = 196    #ai" = 609    }
+Data	{#machinelearning" = 161    #PrecisionMedicine = 23    #ai = 34    Big = 874    @machinelearnbot" = 381    R = 359    #machinelearning = 11    }
+Dataconomy	{#machinelearning" = 1    }
+Dawn	{#earthday" = 122    }
+Day	{#MachineLearning" = 359    }
+Deep	{#MachineLearning = 134    #DL" = 161    }
+DeepLearn007	{v/ = 161    RT = 161    }
+Deficit	{#PrecisionMedicine = 23    }
+Demis	{#machinelearning" = 292    #ai = 1    }
+Details	{#fraud" = 265    }
+Detect	{#PrecisionMedicine = 23    }
+Diary<U+200A>.	{#AI = 231    }
+Difference	{#DL" = 161    }
+Digest:	{#TensorFlow<U+2026> = 1    }
+Display	{#machinelearning" = 231    }
+Distributed	{#ml" = 391    }
+Dot-Com	{#machinelearning" = 344    }
+Driving.	{#DataScience<U+2026> = 1    }
+El	{Pa<U+00ED>s = 34    }
+Embraces	{#MachineLearning" = 359    }
+End	{It? = 104    }
+Engineer	{#MachineLearning" = 462    #Javascript = 25    #AI = 231    }
+Engineers	{@DataconomyMedia" = 344    }
+Enterprise	{#RT = 34    }
+Essential	{@DataconomyMedia" = 344    }
+Exchange	{#machinelearning = 745    }
+Experience	{#Javascript = 31    }
+Ext!	{#chrometips = 52    }
+Finance	{#tech = 104    }
+Find	{blog = 292    }
+Firms	{#Analytics<U+2026> = 1    }
+Five	{#ai = 267    }
+For	{@DataconomyMedia" = 344    #machinelearning" = 231    @machinelearnbot" = 381    }
+Free	{#alevergara78 = 584    }
+Fundamentals	{@coursera" = 1    }
+Future	{#ai = 34    }
+GALILEO2.P	{Processor = 34    }
+Galileo	{GALILEO2.P = 34    }
+Gen	{GALILEO2.P = 34    }
+Gets	{#tech = 104    }
+Google	{@kleinsound" = 292    #machinelearning = 265    }
+Gracias	{#ai" = 181    }
+Growth	{Opportunities<U+201D> = 34    }
+Guide	{#machinelearning" = 1    #RT = 34    }
+Hacks	{#deepl<U+2026>" = 381    }
+Hassabis	{#machinelearning" = 292    #ai = 1    }
+Hateful	{#machinelearning" = 34    }
+Help	{#AI = 359    }
+Hidden	{#machinelearning" = 34    }
+Highly	{#DataScience<U+2026> = 1    }
+History	{#MachineLearning = 134    }
+Home	{#MachineLearning = 34    }
+How	{#MachineLearning" = 2    intelligent<U+2026> = 41    }
+Hunt	{<U+2026>" = 52    }
+I	{#seo" = 342    #AI<U+2026> = 138    Use? = 174    }
+If	{#MLPrague<U+2026> = 203    }
+In	{#RT = 34    }
+India:<U+2026>	{in = 134    }
+Industrial	{#deeple<U+2026>" = 52    }
+Ins	{#SmarterHR = 34    }
+Intel	{GALILEO2.P = 34    }
+Intelligence	{#machinelearning" = 344    #deepl<U+2026>" = 381    #AI<U+2026> = 1    }
+Intelligence.	{Artificial = 52    }
+Internet	{#BigData" = 52    }
+IoT	{#IoT<U+2026> = 34    }
+IoTcamp	{#BigData" = 52    }
+Is	{#DL" = 161    }
+Isn't	{#deeple<U+2026>" = 52    }
+It?	{Know = 104    }
+Itself?	{#deepl<U+2026>" = 381    }
+J.B.	{<U+2026>" = 52    }
+John	{#NFL" = 161    }
+Keep	{#machinelearning" = 34    }
+Kirstel:	{<U+2026> = 344    }
+Know	{#fraud" = 265    It? = 104    }
+Laborers	{#machinelearning" = 34    }
+Leans	{#machinelearning" = 231    }
+Learning	{#machinelearning" = 255    #MachineLearning" = 462    #RT = 34    #MachineLearning = 478    @techreview = 52    #AI<U+2026> = 231    #DL" = 161    }
+Learning,	{#DL" = 161    }
+Let's	{#IBMML = 159    }
+Leverage	{Opportunities<U+201D> = 34    }
+Liberating	{#deeple<U+2026>" = 52    }
+Like	{#deeple<U+2026>" = 52    }
+Live	{at = 292    }
+Love.	{#DataScience = 1    }
+M<U+00FC>nchen.	{#BigData" = 52    }
+MIT	{#NFL" = 161    }
+Machine	{#machinelearning" = 255    #RT = 34    #MachineLearning = 344    #DL" = 161    #ai" = 265    }
+Machine-learning	{@machinelearnbot" = 381    }
+Make	{#AI = 359    }
+Market	{Opportunities<U+201D> = 34    }
+McAfee:	{#deepl<U+2026>" = 381    }
+Mind	{#ai = 273    }
+Mining:	{@machinelearnbot" = 381    }
+More	{here: = 292    }
+Most	{#AI = 359    }
+Multi-Layer	{#NeuralNetworks. = 1    }
+Must-Read	{#alevergara78 = 584    }
+National	{sens = 181    }
+Networks	{#ml" = 391    }
+Neural	{#ml" = 391    }
+Neurological	{#PrecisionMedicine = 23    }
+News!	{#earthday" = 122    }
+Next	{#machinelearning" = 344    #DataScience<U+2026> = 1    }
+Ng	{#MachineLearning = 344    }
+Now:<U+2026>	{Register = 292    }
+Nutshell:	{#MachineLearning = 134    }
+Of	{#AI = 359    }
+Off	{#machinelearning" = 34    }
+Oktober	{#BigData" = 52    }
+Old	{#deeple<U+2026>" = 52    }
+On	{#machinelearning" = 231    #NeuralNetworks. = 1    }
+One	{#DeepLearning" = 386    @techreview = 52    }
+Opportunities<U+201D>	{Growth = 34    }
+Outs	{#SmarterHR = 34    }
+Pa<U+00ED>s	{El = 34    }
+Participate	{knowledge. = 292    }
+Perceptron	{#NeuralNetworks. = 1    }
+Personal	{#tech = 104    }
+Ph.D.	{#NFL" = 161    }
+Plan	{#DigitalTransformation = 391    <U+2026> = 344    }
+Platform	{@coursera" = 1    }
+Plattform	{#BigData" = 52    }
+Predicti	{@machinelearnbot" = 381    }
+Predictions	{#MachineLearning = 2    }
+Processor	{GALILEO2.P = 34    }
+Program	{#AI<U+2026> = 231    }
+Provenance	{Analytics: = 161    }
+R	{with = 359    }
+RT	{DeepLearn007 = 161    #unicorns = 161    }
+Rallies	{#MachineLearning" = 359    }
+Reading	{#ai = 272    }
+Register	{Now:<U+2026> = 292    }
+Repository:	{#machinelearning = 4    }
+Research!	{#ai" = 150    }
+Reston	{#DCTech" = 261    }
+Revolution	{#deeple<U+2026>" = 52    }
+Richert	{#MLPrague<U+2026> = 344    }
+Rise	{@T<U+2026>" = 12    }
+SFO	{#futureofag = 1    }
+Sarahetodd:	{DeepLearn007 = 161    }
+Scale	{#machinelearning" = 231    }
+Science	{#MachineLearning" = 359    }
+Scientist/Machine	{#MachineLearning" = 462    }
+Search	{#ecommerce. = 391    }
+Security	{Opportunities<U+201D> = 34    }
+Sensor	{#PrecisionMedicine = 23    }
+Serious	{#tech = 104    }
+Shahrukh(ARTIST)	{#fedcup" = 292    }
+Shortcut	{#RT = 34    }
+Should	{Use? = 174    }
+SkillPower	{#MachineLearning = 292    }
+Slack	{#deepl<U+2026>" = 23    }
+Smarter	{#machinelearning" = 231    }
+Smartphone	{#ai = 269    }
+So	{<ed><U+00A0><U+00BD><ed><U+00B8><U+0081><ed><U+00A0><U+00BD><ed><U+00BA><U+00A9> = 278    }
+Splunk	{#machinelearning" = 161    }
+Stanford	{#MachineLearning = 344    }
+Startups	{#MachineLearning" = 359    }
+Steam	{#machinelearning" = 34    }
+Stock	{#MachineLearning = 2    }
+Stream	{#IoT<U+2026> = 265    }
+Streaming	{at = 292    }
+Stroke	{#PrecisionMedicine = 23    }
+Supercharge	{#ai = 161    }
+Synthesis.	{#AI<U+2026> = 231    }
+Tackling	{Data = 265    }
+Talking	{#futureofag = 1    }
+Tallinn!	{#Javascript = 30    }
+Tech	{#MachineLearning" = 359    }
+Techniques	{@machinelearnbot" = 381    }
+Technologies	{@techreview = 52    }
+Techstars	{#MachineLearning" = 359    }
+Testing	{Opportunities<U+201D> = 34    }
+Thanks	{#fedcup" = 292    #machinelearning" = 196    #DataScience = 1    #earthday" = 122    #ai" = 494    }
+That	{#seo" = 167    }
+The	{#SmarterHR = 34    Coming! = 130    #fedcup" = 292    #machinelearning" = 196    #unicorns = 161    @T<U+2026>" = 11    #RT = 34    #DataScience<U+2026> = 1    #AI = 359    #DL" = 161    #ai" = 609    }
+Things	{#BigData" = 52    }
+This	{#seo" = 163    }
+Three	{#SmarterHR = 34    }
+Through	{#MachineLearning = 2    }
+To	{#RT = 34    }
+Toolkit	{#MLPrague<U+2026> = 344    }
+Toronto	{sens = 181    }
+Trading	{#machinelearning" = 23    }
+Training	{#machinelearning" = 34    #MachineLearning = 134    }
+Twilight	{#earthday" = 122    }
+University	{#MachineLearning = 344    }
+Urschel	{#NFL" = 161    }
+Us	{#AI = 359    }
+Use	{#fraud" = 265    #chrometips = 52    }
+Use?	{I = 174    }
+Using	{#fraud" = 265    @Industrie_40" = 161    }
+Videos	{#machinelearning" = 34    }
+Visual	{#ecommerce. = 391    #AI<U+2026> = 1    }
+Walmart:	{#machinelearning" = 1    }
+Watch	{#Analytics<U+2026> = 1    }
+We	{It? = 104    }
+We're	{at = 292    }
+Web	{Opportunities<U+201D> = 34    }
+Week	{#BigData = 34    }
+What	{#deepl<U+2026>" = 381    }
+When	{#seo" = 172    }
+Which	{Use? = 52    }
+Wolfram	{#machinelearning = 3    }
+Writer	{#chrometips = 52    }
+Years,	{#ai = 268    }
+Your	{#fraud" = 265    #ai = 540    }
+[Blog]	{#PaymentFraud = 1    }
+\"good	{intelligent<U+2026> = 37    }
+a	{<U+2026>" = 52    #fraud" = 265    #machinelearning" = 53    #bigdata<U+2026> = 34    #IBMML = 159    #MachineLearning = 134    #AWS<U+2026> = 231    #AI<U+2026> = 367    #ai" = 181    }
+a<U+00AB>robot	{sens = 181    }
+ability	{<ed><U+00A0><U+00BD><ed><U+00B8><U+0081><ed><U+00A0><U+00BD><ed><U+00BA><U+00A9> = 280    }
+about	{#DCTech" = 240    #sitist = 265    #machinelearning" = 52    @Industrie_40" = 161    learning = 292    }
+accelerate	{#FPGAs<U+2026> = 292    }
+accounts	{#MachineLearning = 34    }
+advancements	{#ecommerce. = 391    }
+advantages,	{24.JUL.2016 = 214    }
+advice	{#deepl<U+2026>" = 23    }
+ahier:	{DeepLearn007 = 161    }
+aims	{#FPGAs<U+2026> = 292    }
+algorithms	{@jamesebowman = 134    [Blog] = 1    }
+am	{#AI<U+2026> = 139    #BigData" = 52    }
+analysis<U+201D>	{#machinelearning" = 52    }
+analyze	{#startup" = 359    }
+and	{using<U+2026> = 223    services. = 370    #SmarterHR = 34    #Artificial = 292    @coursera" = 1    knowledge. = 292    #sitist = 265    #MachineLearning" = 2    #selfdrivingdatacenter = 265    #PrecisionMedicine = 23    #alevergara78 = 584    #analytics" = 34    #MachineLearning = 168    @jamesebowman = 134    24.JUL.2016 = 214    #deeperlearning" = 391    #AnvilHack = 292    <ed><U+00A0><U+00BD><ed><U+00B8><U+0081><ed><U+00A0><U+00BD><ed><U+00BA><U+00A9> = 285    @DigiCatapult" = 356    game-changers = 1    #DL" = 161    #SpotifyPlatform" = 134    }
+anything!	{#machinelearning = 265    }
+anywhere	{#chrometips = 52    }
+app	{#MachineLearning" = 1    }
+applications	{services. = 370    }
+applications,	{24.JUL.2016 = 214    }
+approach.	{#AI<U+2026> = 144    }
+apps	{#DCTech" = 250    }
+are	{using<U+2026> = 226    #MachineLearning" = 1    #MLPrague<U+2026> = 206    #selfdrivingdatacenter = 265    here: = 292    }
+areas	{#tech<U+2026> = 1    }
+artificial	{#machinelearning" = 292    #ai = 1    }
+assess	{[Blog] = 1    }
+at	{#FinancialTimes" = 703    #sitist = 265    #machinelearning" = 1    #MLPrague<U+2026> = 344    Live = 292    #NFL" = 161    #AnvilHack = 292    #SpotifyPlatform" = 134    #machinelearning = 134    }
+at<U+2026>	{#machinelearning = 292    }
+atmospheric	{#MachineLearning:<U+2026> = 52    }
+attracting	{#tech<U+2026> = 1    }
+audience	{#chrometips = 52    }
+auto	{#machinelearning" = 298    }
+automatica	{#toolsgroup<U+2026> = 52    }
+banks	{services. = 370    }
+be	{@B_resnick = 161    #machinelearning" = 1    [Blog] = 1    champion = 102    intelligent<U+2026> = 49    }
+beginning	{#NFL" = 161    }
+benefits	{#DigitalMarketing" = 159    }
+best	{Intelligence. = 52    }
+between	{#MachineLearning = 34    }
+big	{#MachineLearning" = 2    #AI" = 688    }
+blazes	{#AWS<U+2026> = 231    }
+blog	{new = 292    }
+both	{#analytics" = 34    }
+break	{using<U+2026> = 229    #MLPrague<U+2026> = 197    }
+brought	{#ecommerce. = 391    }
+build	{#DCTech" = 245    [Blog] = 1    }
+business	{#deepl<U+2026>" = 23    }
+by	{#machinelearning" = 53    #selfdrivingdatacenter = 265    #alevergara78 = 584    #MachineLearning = 344    @jamesebowman = 134    @techreview = 52    #AI<U+2026> = 143    #machinelearning = 265    }
+by...	{#AI... = 1    }
+by<U+2026>	{#ML... = 909    #AI... = 1    #datamining = 122    #fintech... = 1    #digital... = 35    #deeplearning... = 34    }
+can	{using<U+2026> = 216    #machinelearning" = 1    blog = 292    #MachineLearning = 34    [Blog] = 1    #DigitalMarketing" = 156    }
+causes	{blog = 292    }
+challenges,	{24.JUL.2016 = 214    }
+champion	{#AI = 102    }
+change	{services. = 370    }
+classification	{#machinelearning" = 1    }
+closer	{#ecommerce. = 391    }
+cloud.	{#AWS<U+2026> = 231    }
+company	{#MachineLearning" = 2    }
+compete	{champion = 102    }
+complexity	{#DataScience" = 52    }
+components	{#selfdrivingdatacenter = 265    }
+conference	{#FinancialTimes" = 703    }
+confermare	{#BigData" = 1    }
+conflict	{#MachineLearning" = 1    }
+considered	{intelligent<U+2026> = 50    }
+convinced	{#AI<U+2026> = 142    }
+could	{@DigiCatapult" = 348    }
+couples	{#MachineLearning" = 1    }
+create	{#analytics" = 34    }
+daily!	{#ai" = 181    }
+data	{#MachineLearning" = 2    #AI" = 688    @Industrie_40" = 161    #AI<U+2026> = 231    }
+dataset	{#bigdata<U+2026> = 34    }
+deep	{#futureofag = 1    }
+del	{Pa<U+00ED>s = 34    }
+deliver	{services. = 370    }
+delivering	{here: = 292    }
+della	{#toolsgroup<U+2026> = 52    }
+dependencies	{#MachineLearning = 161    }
+der	{#BigData" = 52    }
+detecting	{<ed><U+00A0><U+00BD><ed><U+00B8><U+0081><ed><U+00A0><U+00BD><ed><U+00BA><U+00A9> = 282    }
+devices.	{#IoT<U+2026> = 265    }
+di	{#BigData" = 1    }
+did	{#seo" = 173    }
+difference	{#MachineLearning = 34    }
+does	{#IBMML = 159    intelligent<U+2026> = 43    }
+done	{#machinelearning" = 1    }
+doodle	{#machinelearning" = 328    }
+draw	{#machinelearning" = 951    }
+drugs	{#BigData" = 1    }
+earlier	{sens = 181    }
+easy	{#machinelearning" = 337    }
+easy.	{#MLPrague<U+2026> = 212    }
+edge	{#IoT<U+2026> = 265    }
+efficiency	{#analytics" = 34    }
+el	{Pa<U+00ED>s = 34    }
+en	{Pa<U+00ED>s = 34    }
+end	{hunger? = 134    }
+engineering	{#AI<U+2026> = 231    }
+engineers	{@kleinsound" = 292    }
+enough\"	{intelligent<U+2026> = 38    }
+environmental	{India:<U+2026> = 134    }
+essential	{#selfdrivingdatacenter = 265    }
+evangelize	{#DigitalMarketing" = 157    }
+even	{using<U+2026> = 217    }
+evidence	{#DataScience" = 52    }
+expands	{#IoT<U+2026> = 34    }
+experience	{#Javascript = 27    }
+explaining	{at<U+2026> = 292    }
+facebook	{at<U+2026> = 292    }
+failed	{#bigdata = 34    #AI" = 688    }
+fans	{here: = 292    }
+far	{intelligent<U+2026> = 42    }
+fast	{#machinelearning" = 313    }
+fav	{India:<U+2026> = 134    }
+fighting,	{#MachineLearning" = 1    }
+firm	{<U+2026>" = 52    }
+first	{#seo" = 166    }
+five	{#RT = 462    }
+flagging	{<ed><U+00A0><U+00BD><ed><U+00B8><U+0081><ed><U+00A0><U+00BD><ed><U+00BA><U+00A9> = 286    }
+fondo	{#BigData" = 1    }
+for	{#DeepLearning" = 772    #BigData = 34    @coursera" = 1    #machinelearning" = 161    #MachineLearning" = 2    #DigitalTransformation = 391    #alevergara78 = 584    #MachineLearning = 161    @jamesebowman = 134    <U+2026> = 344    at<U+2026> = 292    intelligent<U+2026> = 39    <ed><U+00A0><U+00BD><ed><U+00B8><U+0081><ed><U+00A0><U+00BD><ed><U+00BA><U+00A9> = 288    @Industrie_40" = 161    #DataScience = 1    #chrometips = 52    #AI<U+2026> = 231    #DataScience" = 52    #DigitalMarketing" = 310    #machinelearning = 739    }
+for.	{#Analytics<U+2026> = 1    }
+for<U+00A0>Facebook	{@techcrunch<U+2026> = 23    }
+framework	{#MLPrague<U+2026> = 344    }
+free	{#deepl<U+2026>" = 23    }
+freight	{<U+2026>" = 52    }
+from	{#MachineLearning = 34    at<U+2026> = 292    }
+frontier	{#AWS<U+2026> = 231    }
+fuel<U+2026>	{the = 122    }
+fulfilling	{#bigdata = 34    #AI" = 688    }
+fully	{#AI<U+2026> = 141    }
+future	{@techcrunch<U+2026> = 23    }
+future:	{#MachineLearning" = 2    }
+game)	{#AI<U+2026> = 149    }
+game-changers	{ultimate = 1    }
+get	{fuel<U+2026> = 96    }
+giant	{#DeepLearning" = 387    }
+giants	{champion = 102    }
+go	{intelligent<U+2026> = 46    }
+goal,	{fuel<U+2026> = 66    }
+goes	{5x'<U+2026> = 1    }
+going	{fuel<U+2026> = 88    #machinelearning = 737    }
+good	{#DataScience" = 52    }
+great	{#bigdata<U+2026> = 34    #DataScience = 1    #machinelearning = 265    }
+guard	{#NFL" = 161    }
+happiness	{@DigiCatapult" = 355    }
+has	{5x'<U+2026> = 1    }
+have	{#ecommerce. = 391    #seo" = 168    @kleinsound" = 292    intelligent<U+2026> = 45    #DataScience" = 52    }
+heard	{#seo" = 169    }
+help	{#machinelearning" = 305    @DigiCatapult" = 349    #machinelearning = 265    }
+here	{@machinelearnbot" = 381    }
+here:	{More = 292    }
+high-momentum	{#machinelearning<U+2026> = 391    }
+how	{#DCTech" = 242    services. = 370    blog = 292    #machinelearning" = 1    at<U+2026> = 292    }
+hunger?	{world = 134    }
+i	{#BigData" = 1    }
+identify	{blog = 292    }
+if	{#MLPrague<U+2026> = 194    #deepl<U+2026>" = 381    }
+impact	{#MachineLearning" = 2    }
+implementation	{#RT = 462    }
+improve	{@Industrie_40" = 161    }
+in	{#DCTech" = 507    #SmarterHR = 68    #ecommerce. = 391    India:<U+2026> = 134    #machinelearning" = 292    blog = 292    DeepLearn007 = 161    #PrecisionMedicine = 23    #DeepLearning<U+2026> = 265    #DataScience<U+2026> = 1    #MachineLearning = 134    @jamesebowman = 134    24.JUL.2016 = 214    #ai = 1    5x'<U+2026> = 1    Data = 265    #AWS<U+2026> = 231    #Javascript = 29    intelligent<U+2026> = 47    @kirkdborne<U+2026> = 214    #deepl<U+2026>" = 23    #futureofag = 1    #BigData" = 52    }
+increase	{#analytics" = 34    @DigiCatapult" = 353    }
+information	{@Industrie_40" = 161    }
+insights	{here: = 292    }
+intelligence	{#DCTech" = 247    #Artificial = 292    #machinelearning" = 292    #ai = 1    @techcrunch<U+2026> = 23    }
+intelligence:	{#AI" = 688    }
+intelligent<U+2026>	{truly = 52    }
+introducing	{#DataScience" = 52    }
+investment	{#tech<U+2026> = 1    }
+is	{using<U+2026> = 222    #FinancialTimes" = 703    #sitist = 265    #seo" = 164    #bigdata<U+2026> = 34    #climatechange! = 134    intelligent<U+2026> = 36    <ed><U+00A0><U+00BD><ed><U+00B8><U+0081><ed><U+00A0><U+00BD><ed><U+00BA><U+00A9> = 279    fuel<U+2026> = 247    #AI<U+2026> = 231    @techcrunch<U+2026> = 23    #machinelearning = 231    }
+issues	{blog = 292    }
+it,	{5x'<U+2026> = 1    }
+its	{@kleinsound" = 292    }
+jblefevre60:	{#unicorns = 161    }
+job	{#machinelearning" = 1    }
+jobs	{#analytics" = 34    }
+junior	{#AI<U+2026> = 147    }
+jxstanford	{#ai" = 344    }
+know	{#seo" = 177    }
+knowledge.	{your = 292    }
+knows	{#MachineLearning" = 1    }
+language	{#machinelearning" = 52    }
+large-scale	{#MachineLearning:<U+2026> = 52    }
+last	{sens = 181    }
+latest	{#fedcup" = 292    #machinelearning" = 196    #earthday" = 122    #ai" = 759    }
+lawyer<U+00BB>,	{sens = 181    }
+leap	{#DeepLearning" = 388    }
+learn	{#DCTech" = 238    }
+learning	{#FinancialTimes" = 703    #RT = 462    #startup" = 359    machine = 292    #ai" = 446    #machinelearning = 231    }
+learning.	{#FPGAs<U+2026> = 292    }
+learning:	{#Artificial = 292    }
+learns	{@B_resnick = 161    }
+left	{@kleinsound" = 292    }
+les	{#BigData" = 265    }
+likely	{using<U+2026> = 227    }
+list	{Intelligence. = 52    }
+look:	{#IBMML = 159    }
+machine	{#Artificial = 292    #RT = 462    #startup" = 359    learning = 292    #machinelearning = 231    }
+machine:	{#machinelearning" = 292    #ai = 1    }
+mainstream	{#ecommerce. = 391    }
+makes	{sens = 181    }
+man-caused	{#climatechange! = 134    }
+man.	{#DeepLearning" = 385    }
+marketplace	{<U+2026>" = 52    }
+maximize	{#MachineLearning" = 2    }
+may	{#MachineLearning" = 1    }
+mind	{#machinelearning" = 292    #ai = 1    }
+minimize	{#MachineLearning" = 2    }
+models	{#startup" = 359    }
+models,	{[Blog] = 1    }
+monetization	{@techcrunch<U+2026> = 23    }
+monitor	{@DigiCatapult" = 352    }
+more	{#seo" = 178    }
+most	{@kleinsound" = 292    }
+much	{#ecommerce. = 391    #machinelearning" = 1    }
+multiple	{#MachineLearning = 34    }
+must	{#seo" = 176    }
+mutliple	{#MachineLearning = 161    }
+nationality	{#unicorns = 161    }
+natural	{#machinelearning" = 52    }
+network	{#IoT<U+2026> = 34    }
+new	{#machinelearning" = 322    blog = 292    at<U+2026> = 292    }
+news	{#startup" = 359    }
+next	{#AWS<U+2026> = 231    }
+not	{#AI<U+2026> = 140    }
+now	{knowledge. = 292    #MachineLearning = 34    }
+of	{services. = 370    #BigData = 34    #bigdata = 34    #seo" = 170    #machinelearning" = 1    blog = 292    #AI" = 688    DeepLearn007 = 161    #unicorns = 161    @T<U+2026>" = 13    #PrecisionMedicine = 23    #RT = 462    [Blog] = 1    #ai = 34    @techreview = 52    It? = 104    #deeperlearning" = 391    @kleinsound" = 292    <ed><U+00A0><U+00BD><ed><U+00B8><U+0081><ed><U+00A0><U+00BD><ed><U+00BA><U+00A9> = 281    @techcrunch<U+2026> = 23    Intelligence. = 52    #deeple<U+2026>" = 52    #BigData" = 52    }
+offers	{#deepl<U+2026>" = 23    }
+office	{#DCTech" = 263    }
+offseason	{#NFL" = 161    }
+on	{#machinelearning" = 344    blog = 292    #IoT<U+2026> = 265    #ai = 1    at<U+2026> = 292    #NFL" = 161    Intelligence. = 52    }
+one	{#MachineLearning" = 2    @kleinsound" = 292    }
+only	{@coursera" = 1    }
+optimising	{@jamesebowman = 134    }
+or	{5x'<U+2026> = 1    sens = 181    }
+order	{intelligent<U+2026> = 48    }
+our	{India:<U+2026> = 134    blog = 292    @DigiCatapult" = 354    }
+out	{#SmarterHR = 34    @coursera" = 1    <U+2026>" = 52    blog = 292    }
+partner	{using<U+2026> = 221    }
+partners	{#DigitalMarketing" = 154    }
+people	{#machinelearning" = 52    <ed><U+00A0><U+00BD><ed><U+00B8><U+0081><ed><U+00A0><U+00BD><ed><U+00BA><U+00A9> = 284    }
+per	{#BigData" = 1    }
+performance	{blog = 292    }
+pipeline	{#DataScience" = 52    }
+playing	{#AI<U+2026> = 148    }
+power	{India:<U+2026> = 134    #AI<U+2026> = 1    }
+powered	{#selfdrivingdatacenter = 265    }
+pr<U+00E9>visions	{#BigData" = 265    }
+predict	{using<U+2026> = 218    #MLPrague<U+2026> = 192    #MachineLearning" = 1    }
+predict,	{@DigiCatapult" = 351    }
+predictions	{Data = 609    }
+predictive	{[Blog] = 1    }
+presenting	{#MLPrague<U+2026> = 344    }
+pretty	{#MLPrague<U+2026> = 210    }
+prevent)	{#MachineLearning" = 1    }
+probability	{[Blog] = 1    }
+productive	{#AI<U+2026> = 231    }
+profs	{#BigData" = 1    }
+project	{Analytics: = 161    }
+promise	{#bigdata = 34    #AI" = 688    #deeperlearning" = 391    }
+provide	{India:<U+2026> = 134    }
+public	{#bigdata<U+2026> = 34    }
+push	{#BigData" = 1    }
+rank	{at<U+2026> = 292    }
+ratings	{#MachineLearning = 344    }
+real	{#FinancialTimes" = 703    }
+really	{#machinelearning" = 334    }
+relationship,	{using<U+2026> = 219    }
+rely	{blog = 292    }
+repository	{#bigdata<U+2026> = 34    }
+required	{#Javascript = 28    }
+revenue	{#DigitalMarketing" = 152    }
+revolutionizing	{#machinelearning = 231    }
+robot	{#machinelearning" = 1    }
+rocket	{fuel<U+2026> = 80    }
+rolls	{<U+2026>" = 52    }
+root	{blog = 292    }
+rsrchrs	{#MachineLearning:<U+2026> = 52    }
+sales	{...<U+201D> = 231    }
+science	{#DataScience = 1    #futureofag = 1    }
+search	{#machinelearning = 231    }
+see	{<ed><U+00A0><U+00BD><ed><U+00B8><U+0081><ed><U+00A0><U+00BD><ed><U+00BA><U+00A9> = 291    }
+seen	{#AI<U+2026> = 146    }
+sens	{makes = 181    }
+services	{<U+2026>" = 52    }
+services.	{deliver = 370    }
+share	{#DigitalMarketing" = 153    }
+simple	{#DataScience" = 52    }
+small	{#DeepLearning" = 383    }
+solar	{India:<U+2026> = 134    }
+someday	{#MachineLearning" = 1    }
+soon?	{#MLPrague<U+2026> = 201    }
+spark-submit	{#MachineLearning = 161    }
+specify	{#MachineLearning = 161    }
+spot	{#MachineLearning:<U+2026> = 52    }
+stages	{#RT = 462    }
+star	{#FinancialTimes" = 703    }
+start?	{#seo" = 175    }
+started	{learning = 292    }
+starting	{#SmarterHR = 34    }
+startup	{#startup" = 359    }
+step	{#DeepLearning" = 384    }
+steps	{#SmarterHR = 34    }
+stories	{at<U+2026> = 292    }
+stories.	{India:<U+2026> = 134    }
+story	{#NFL" = 161    }
+structures	{#MachineLearning:<U+2026> = 52    }
+stupid	{<ed><U+00A0><U+00BD><ed><U+00B8><U+0081><ed><U+00A0><U+00BD><ed><U+00BA><U+00A9> = 283    }
+supercomputers	{#MachineLearning:<U+2026> = 52    }
+supports	{#MachineLearning = 34    }
+sur	{#BigData" = 265    }
+take	{#IBMML = 159    }
+talk	{#machinelearning" = 52    learning = 292    #machinelearning = 1468    }
+talk!	{#DataScience = 1    }
+talking	{#sitist = 265    }
+teach	{#MachineLearning:<U+2026> = 52    }
+team	{...<U+201D> = 231    }
+team.	{#futureofag = 1    }
+team?	{#AI<U+2026> = 231    }
+teams	{blog = 292    }
+tech	{champion = 102    #machinelearning = 735    }
+technological	{#climatechange! = 134    }
+tell	{#MachineLearning = 34    }
+that	{5x'<U+2026> = 1    #DigitalMarketing" = 155    }
+that<U+2019>s	{fuel<U+2026> = 84    }
+the	{#Artificial = 292    #bigdata = 34    #seo" = 165    #machinelearning" = 636    #MachineLearning" = 2    #MLPrague<U+2026> = 344    #AI" = 688    #unicorns = 161    DeepLearn007 = 161    #MachineLearning = 34    #ai = 35    5x'<U+2026> = 1    @techreview = 52    Data = 265    #AWS<U+2026> = 231    It? = 104    <ed><U+00A0><U+00BD><ed><U+00B8><U+0081><ed><U+00A0><U+00BD><ed><U+00BA><U+00A9> = 567    fuel<U+2026> = 256    #DataScience = 1    #chrometips = 52    game-changers = 1    @techcrunch<U+2026> = 23    #deeple<U+2026>" = 52    }
+them	{<ed><U+00A0><U+00BD><ed><U+00B8><U+0081><ed><U+00A0><U+00BD><ed><U+00BA><U+00A9> = 287    }
+there	{fuel<U+2026> = 104    }
+they	{at<U+2026> = 292    }
+this	{#seo" = 174    #NFL" = 161    #AI<U+2026> = 291    }
+this.	{#seo" = 171    }
+to	{using<U+2026> = 228    #DCTech" = 479    @B_resnick = 161    #SmarterHR = 34    #ecommerce. = 391    India:<U+2026> = 134    #fedcup" = 292    #fraud" = 265    #MachineLearning:<U+2026> = 52    blog = 292    #machinelearning" = 872    #IoT<U+2026> = 34    #MLPrague<U+2026> = 190    #MachineLearning" = 2    Opportunities<U+201D> = 34    #selfdrivingdatacenter = 265    #PrecisionMedicine = 23    #MachineLearning = 161    [Blog] = 1    #AWS<U+2026> = 231    champion = 102    #startup" = 359    intelligent<U+2026> = 93    <ed><U+00A0><U+00BD><ed><U+00B8><U+0081><ed><U+00A0><U+00BD><ed><U+00BA><U+00A9> = 290    fuel<U+2026> = 92    @Industrie_40" = 161    learning = 292    #Analytics<U+2026> = 1    #AI<U+2026> = 1    #earthday" = 122    #ai" = 494    here: = 292    #machinelearning<U+2026> = 391    #FPGAs<U+2026> = 292    #machinelearning = 272    }
+today	{#DCTech" = 235    }
+tool	{#machinelearning" = 331    #machinelearning = 265    }
+trail	{#AWS<U+2026> = 231    }
+trend	{#BigData" = 1    }
+trends	{#machinelearning<U+2026> = 391    }
+truly	{intelligent<U+2026> = 51    }
+ultima...	{#Artificial = 292    }
+ultimate	{game-changers = 1    }
+until	{#DataScience" = 52    }
+up	{India:<U+2026> = 134    #MLPrague<U+2026> = 199    }
+up,	{using<U+2026> = 230    5x'<U+2026> = 1    }
+upskill	{knowledge. = 292    }
+ur	{#chrometips = 52    }
+us	{fuel<U+2026> = 100    @DigiCatapult" = 350    }
+use	{#MLPrague<U+2026> = 186    #PrecisionMedicine = 23    }
+used	{[Blog] = 1    }
+users	{at<U+2026> = 292    }
+users'	{#MachineLearning = 34    }
+uses	{#MachineLearning" = 2    ...<U+201D> = 231    }
+using	{#DCTech" = 252    #machinelearning" = 23    at<U+2026> = 292    }
+using<U+2026>	{up, = 231    }
+v/	{DeepLearn007 = 161    }
+valuation	{5x'<U+2026> = 1    }
+very	{#DataScience" = 52    }
+via	{@DataconomyMedia" = 344    @coursera" = 1    #fraud" = 265    #machinelearning" = 327    @pymnts<U+2026> = 134    @T<U+2026>" = 38    @kleinsound" = 292    @DigiCatapult" = 358    here: = 292    }
+visit	{#futureofag = 1    }
+voices	{#MachineLearning = 34    }
+w/	{#MachineLearning:<U+2026> = 52    @kirkdborne<U+2026> = 214    }
+watch	{#machinelearning<U+2026> = 391    }
+wellbeing	{@DigiCatapult" = 357    }
+when	{using<U+2026> = 224    #MachineLearning" = 1    }
+which	{[Blog] = 1    }
+who	{using<U+2026> = 220    #machinelearning = 733    }
+will	{services. = 370    #analytics" = 34    }
+with	{#DeepLearning<U+2026> = 265    #ai = 161    Data = 609    #Javascript = 56    #futureofag = 1    R = 359    }
+work	{#NFL" = 161    }
+work?	{#IBMML = 159    }
+world	{hunger? = 134    <ed><U+00A0><U+00BD><ed><U+00B8><U+0081><ed><U+00A0><U+00BD><ed><U+00BA><U+00A9> = 289    }
+world-class	{#deepl<U+2026>" = 23    }
+year	{#DigitalTransformation = 391    <U+2026> = 344    sens = 181    }
+yields	{#MachineLearning" = 2    }
+you	{using<U+2026> = 225    #machinelearning" = 308    #MLPrague<U+2026> = 583    #DataScience" = 52    #machinelearning = 265    }
+your	{using<U+2026> = 438    knowledge. = 292    #machinelearning" = 1    #DataScience" = 52    }
